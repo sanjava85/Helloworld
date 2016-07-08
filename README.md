@@ -1,5 +1,5 @@
 # Helloworld
 Spring Helloworld Example<br>
-* clone the Project locally<br>
+* Clone the project locally<br>
 * Create new Project using exising Source<br>
-* run `mvn clean install`
+* Run `mvn clean install`
